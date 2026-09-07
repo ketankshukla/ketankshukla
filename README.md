@@ -8,7 +8,8 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/ketanshukla.com-1E293B?style=for-the-badge&logo=safari&logoColor=white)](https://ketanshukla.com)
+[![Portfolio](https://img.shields.io/badge/ketanshukla.dev-0F172A?style=for-the-badge&logo=vercel&logoColor=D4A843)](https://ketanshukla.dev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-1E293B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketankshukla)
 [![Location](https://img.shields.io/badge/San%20Diego,%20CA-334155?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Open to work](https://img.shields.io/badge/open%20to%20opportunities-047857?style=for-the-badge)](#)
 
@@ -28,9 +29,9 @@ Five projects built in sequence, each adding one capability the previous one cou
 |:-:|:--------|:-----------------------|:----:|
 | **1** | [**learn-mcp-5-year-old**](https://github.com/ketankshukla/learn-mcp-5-year-old) | A complete, working MCP **server** — the protocol from first principles | [↗](https://learn-mcp-5-year-old.vercel.app) |
 | **2** | [**learn-mcp-agent-loop**](https://github.com/ketankshukla/learn-mcp-agent-loop) | An MCP **host** that owns the agent loop — picks tools across servers, calls them, loops until done | [↗](https://learn-mcp-agent-loop.vercel.app) |
-| **3** | [**learn-mcp-agent-guard**](https://github.com/ketankshukla/learn-mcp-agent-guard) | **Human-in-the-loop approval gates** — stops before anything it can't undo. Postgres persistence, evals, replay | — |
+| **3** | [**learn-mcp-agent-guard**](https://github.com/ketankshukla/learn-mcp-agent-guard) | **Human-in-the-loop approval gates** — stops before anything it can't undo. Postgres persistence, evals, replay | [↗](https://learn-mcp-agent-guard.vercel.app) |
 | **4** | [**learn-mcp-agent-crew**](https://github.com/ketankshukla/learn-mcp-agent-crew) | **Sub-agents** — recursive agent loops where every gated call bubbles to one human queue | [↗](https://learn-mcp-agent-crew.vercel.app) |
-| **5** | [**learn-mcp-agent-ledger**](https://github.com/ketankshukla/learn-mcp-agent-ledger) | **Sampling** — the server borrows the host's model. Cost ledger, spend gates, replayable runs | — |
+| **5** | [**learn-mcp-agent-ledger**](https://github.com/ketankshukla/learn-mcp-agent-ledger) | **Sampling** — the server borrows the host's model. Cost ledger, spend gates, replayable runs | [↗](https://learn-mcp-agent-ledger.vercel.app) |
 
 > 📘 **[mcp-five](https://github.com/ketankshukla/mcp-five)** — the written course tying all five together · **[read it ↗](https://mcp-five-sandy.vercel.app)**
 
@@ -116,6 +117,6 @@ A fourth series — [**Quick Draw**](https://github.com/ketankshukla/quick-draw-
 
 **San Diego, CA** · Open to opportunities in agentic AI and full-stack engineering
 
-[ketanshukla.com](https://ketanshukla.com)
+**[ketanshukla.dev](https://ketanshukla.dev)** · [linkedin.com/in/ketankshukla](https://www.linkedin.com/in/ketankshukla) · [ketanshukla.com](https://ketanshukla.com) (books)
 
 </div>

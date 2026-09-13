@@ -76,7 +76,7 @@ I built an agentic pipeline that takes a book from concept to finished product �
 
 A fourth series — [**Quick Draw**](https://github.com/ketankshukla/quick-draw-series), a five-book spaghetti western — is architected and in production.
 
-📖 Catalogue: **[ketanshukla.com](https://ketanshukla.com)** · [author-portfolio repo](https://github.com/ketankshukla/author-portfolio)
+📖 Catalogue: **[ketanshukla.com](https://ketanshukla.com)** · source maintained privately
 
 ---
 

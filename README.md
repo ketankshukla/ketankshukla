@@ -55,17 +55,17 @@ I built an agentic pipeline that takes a book from concept to finished product �
 <table>
 <tr><th>Series</th><th align="center">Books</th><th>What it is</th></tr>
 <tr>
-<td><a href="https://github.com/ketankshukla/aztec-samurai-adventures"><b>⚔️ Aztec Samurai Adventures</b></a></td>
+<td><b>⚔️ Aztec Samurai Adventures</b></td>
 <td align="center"><b>12</b></td>
 <td>Epic fantasy fusing Mesoamerican warrior traditions with samurai philosophy. 3 acts, 288 chapters, 30 characters. <a href="https://aztec-samurai-adventures.vercel.app">site ↗</a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/ketankshukla/reality-without-belief"><b>🌑 Reality Without Belief</b></a></td>
+<td><b>🌑 Reality Without Belief</b></td>
 <td align="center"><b>5</b></td>
 <td>Non-fiction on belief, clarity, and engaging reality directly. <a href="https://reality-without-belief.vercel.app">site ↗</a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/ketankshukla/repetition-mother-of-mastery"><b>🔁 Repetition — Mother Of Mastery</b></a></td>
+<td><b>🔁 Repetition — Mother Of Mastery</b></td>
 <td align="center"><b>5</b></td>
 <td>Non-fiction on the science of repetition, habit systems, and fast learning. <a href="https://repetition-mother-of-mastery.vercel.app">site ↗</a></td>
 </tr>
@@ -85,7 +85,7 @@ A fourth series — [**Quick Draw**](https://github.com/ketankshukla/quick-draw-
 | Business | What it does |
 |:---------|:-------------|
 | [**Metronagon Media**](https://metronagon.com) | Book publishing services — covers, series branding, full production pipelines, children's picture books |
-| [**Surplus Recoveries**](https://surplusrecoveries.com) | Helps former homeowners claim surplus funds left after foreclosure sales. [Site + 30-chapter operator course](https://github.com/ketankshukla/SRWebsite) |
+| [**Surplus Recoveries**](https://surplusrecoveries.com) | Helps former homeowners claim surplus funds left after foreclosure sales. The operating materials are maintained privately. |
 | [**Microflipping Properties**](https://microflippingproperties.com) | Real estate |
 
 ---
